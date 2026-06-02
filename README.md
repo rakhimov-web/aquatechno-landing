@@ -18,7 +18,6 @@ Official representation platform for car wash equipment and professional technic
 *   **Language:** Russian (Business-oriented content)
 
 ## 🔗 Links
-*   **Live Demo:** [Linkni shu yerga qo'ying]
 *   **Portfolio:** [www.rakhim.uz](https://www.rakhim.uz/)
 
 ---
